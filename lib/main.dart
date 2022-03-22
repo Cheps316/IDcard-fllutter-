@@ -61,7 +61,7 @@ class MyApp extends StatelessWidget {
                   Container(
                     alignment: Alignment.centerLeft,
                     child:  const Text(
-                      "Email: Jadoo@omm.com",
+                      "Email: Jadoo@dhoop.com",
                       style: TextStyle(fontSize: 20,
                       fontWeight: FontWeight.bold),
                       textAlign: TextAlign.justify,
